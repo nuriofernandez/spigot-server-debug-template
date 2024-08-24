@@ -1,0 +1,10 @@
+main: me.nurio.minecraft.spigottemplate.SpigotTemplate
+name: SpigotTemplate
+version: '1.0'
+api-version: 1.21
+description: SpigotTemplate plugin
+load: POSTWORLD
+author: Nurio
+website: nurio.me
+prefix: SpigotTemplate
+depend: [ GrechConfigPlugin ]
