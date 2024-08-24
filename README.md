@@ -35,3 +35,7 @@ with the proper path of your desired Paper jar file.
 - Execute the server with the debug function on IntelliJ
 
 ![](https://i.imgur.com/WAizWvW.png)
+
+## Enjoy!
+
+![](https://i.imgur.com/5wPezcx.png)
