@@ -7,6 +7,8 @@ This is a template project to document how to enable Minecraft plugin debugging 
 You should execute BuildTools to obtain the latest Spigot Jar file you want to
 work with, after that, update pom.xml dependencies to match the Spigot version you are working with.
 
+More info: https://www.spigotmc.org/wiki/buildtools/
+
 ### First steps
 
 Set up your development server on the `./server` folder, place your desired spigot jar file there,
