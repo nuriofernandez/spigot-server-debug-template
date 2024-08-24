@@ -9,6 +9,8 @@ work with, after that, update pom.xml dependencies to match the Spigot version y
 
 More info: https://www.spigotmc.org/wiki/buildtools/
 
+![](https://i.imgur.com/74c6834.png)
+
 ### First steps
 
 Set up your development server on the `./server` folder, place your desired spigot jar file there,
