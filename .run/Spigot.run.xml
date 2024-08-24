@@ -7,7 +7,6 @@
     <option name="ALTERNATIVE_JRE_PATH" value="21" />
     <method v="2">
       <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
-      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_MoveJarToPluginFolder" />
     </method>
   </configuration>
 </component>

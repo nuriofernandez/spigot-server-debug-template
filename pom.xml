@@ -89,6 +89,9 @@
                         <goals>
                             <goal>shade</goal>
                         </goals>
+                        <configuration>
+                            <outputDirectory>./server/plugins/</outputDirectory>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
