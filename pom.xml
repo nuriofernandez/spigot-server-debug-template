@@ -24,10 +24,6 @@
             <id>papermc</id>
             <url>https://repo.papermc.io/repository/maven-public/</url>
         </repository>
-        <repository>
-            <id>nurio-repo</id>
-            <url>https://maven.nurio.me/</url>
-        </repository>
     </repositories>
 
     <dependencies>
@@ -44,13 +40,6 @@
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>
             <version>${spigot.version}</version>
-            <scope>provided</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>me.nurio</groupId>
-            <artifactId>bukkit.configuration</artifactId>
-            <version>1.2</version>
             <scope>provided</scope>
         </dependency>
 

@@ -7,4 +7,3 @@ load: POSTWORLD
 author: Nurio
 website: nurio.me
 prefix: SpigotTemplate
-depend: [ GrechConfigPlugin ]
